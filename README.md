@@ -1,3 +1,3 @@
 # CNN lecture
 
-this is my lecture on convolution neural network at the University of Groningen
+This is my lecture on convolutional neural network at the University of Groningen

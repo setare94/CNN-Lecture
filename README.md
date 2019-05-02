@@ -1,4 +1,3 @@
-# Hello
+# CNN lecture
 
-This is the readme that you will see on the first page of your git
-repo on github.
+this is my lecture on convolutional neural network at the University of Groningen
